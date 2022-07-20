@@ -10,5 +10,4 @@ Connect with me:
 https://github.com/ferchuvill
 
 
-Languages and Tools:
-bootstrap css3 express git html5 javascript nodejs postgresql postman react reactnative redux tailwind typescript
+
