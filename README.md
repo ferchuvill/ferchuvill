@@ -17,7 +17,7 @@
 Hi, I'm Fernando Villoldo, a Full Stack Developer 🚀 from Córdoba, Argentina.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-  <a href="https://drive.google.com/file/d/11c5_hxED3mm8-rcOcFAYV__tTWUT_Abg/view?usp=sharing" target = "_self">📝 Resume Here!</a>
+  <a href="https://www.linkedin.com/in/fernando-villoldo-463137106" target = "_self">📝 Resume Here!</a>
 <br />
 <br />
 
